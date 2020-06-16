@@ -1,4 +1,5 @@
 # Project 2
+the training and testing data :https://drive.google.com/file/d/18RFi1OurkNKIek2yILZuN7xW39hHcSs9/view
 There are three file:wireshark_preprocess, main, random_gen_testcase.
 ## Preprocessing 
 The user behavior has three log file (wireshark,sysmon,and security), we preprocessing the wireshark log by 'wireshark_preprocess' file and extract the IP information into  "Person_X_IP.txt" data.
